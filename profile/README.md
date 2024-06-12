@@ -10,5 +10,5 @@ well, we're using Java for most of our projects. **Why?**, well C++ is way too l
 
 ## 📫 Mailbox
 
-If you really need/want to contact us, for now you can dm me (the founder) on discord: [@andriemc](https://discord.com/users/662912619975278592),
-but we're planning to open a discord server and google group so that it's easier for you :)
+If you really need/want to contact us, for now you can dm me (the founder) on discord: [@andriemc](https://discord.com/users/662912619975278592), or you can also send us a message or vulnerability report on [our official google group](https://groups.google.com/g/eurkmc),
+but we're planning to open a discord server as well.
